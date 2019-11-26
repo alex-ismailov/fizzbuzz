@@ -1,0 +1,21 @@
+{
+  "name": "fizzbuzz-questions",
+  "version": "0.0.0",
+  "description": "Here is collected solutions for various fizzBuzz tasks",
+  "main": "index.js",
+  "repository": "https://github.com/alex-ismailov/fizzbuzz",
+  "author": "alex-ismailov <alexander.is.dev@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
